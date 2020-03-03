@@ -1,0 +1,8 @@
+{
+   "SITE_NAME": {
+      "rss": "RSS_URL",
+      "prev_link": "VISITED_URL",
+      "tag_attributes": "^http://TAG_URL",
+      "split_char": "/"
+   }
+}
